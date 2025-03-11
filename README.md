@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Brooks
 - 👀 I’m interested in books, video games, programming, writing and craft beer
-- 🌱 I’m currently learning Angular.js, Java, Python, C++ and more!
+- 🌱 I’m currently learning TypeScript, PostgreSQL, Python and more!
 - 💞️ I’m looking to collaborate on Web Development, Mobile App Development and Indie Game Development
 - 📫 How to reach me: virverum22@gmail.com (personal) or brooks94@mctc.edu (work email)
 
